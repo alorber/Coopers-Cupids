@@ -3,7 +3,7 @@
 ## Andrew Lorber & Mark Koszykowski
 #### A dating app to solve all of life’s woes.
 
-Cooper's Cupids is a dating webapp built as a term project for ECE 366 - Software Engineering & Large System Design. The frontend was built with a React, the backend was developed in Java (Spark), and MySQL was used for the database.
+Cooper's Cupids is a dating webapp built as a term project for ECE 366 - Software Engineering & Large System Design. The frontend was built with React, the backend was developed in Java (Spark), and MySQL was used for the database.
 
 The site is fully responsive and contains features expected of a dating app, including:
 - Sign up / Login
